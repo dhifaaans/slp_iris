@@ -1,5 +1,5 @@
 # Machine Learning Assignments about Single Layer Perceptron on Iris Dataset
-## Nadhifa Sofia | 19/448721/PPA/05804
+Nadhifa Sofia | 19/448721/PPA/05804
 ____
 
 Binary-Classification using Linear Classification
@@ -25,7 +25,7 @@ do the following steps:
 
 9. Plot your cost function using matplotlib (cost function vs iteration) (score: 0.5)
 
-
+____
 Note: 
 You should submit 
 1) a python notebook in the format linearclassifier_fullname_yourclass.ipynb (ex: linearclassifier_afiahayati_KKPMDD.ipynb)
